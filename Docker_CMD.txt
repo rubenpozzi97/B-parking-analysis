@@ -1,0 +1,1 @@
+docker run -v C:\Users\ruben\OneDrive\Desktop\LIP-internship\B-parking-analysis\neural_network/:/work -p 3000:8080 cohm/pyroot-notebook:latest
