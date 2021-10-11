@@ -10,7 +10,7 @@ Method         : MLP::MLP
 TMVA Release   : 4.2.1         [262657]
 ROOT Release   : 6.22/08       [398856]
 Creator        : root
-Date           : Tue Oct  5 13:43:38 2021
+Date           : Tue Oct  5 15:36:53 2021
 Host           : Linux root-ubuntu-2004-2 5.4.0-33-generic #37-Ubuntu SMP Thu May 21 12:53:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
 Dir            : /work
 Training events: 16984
