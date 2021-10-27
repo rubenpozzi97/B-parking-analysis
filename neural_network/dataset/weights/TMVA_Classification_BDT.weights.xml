@@ -4,11 +4,11 @@
     <Info name="TMVA Release" value="4.2.1 [262657]"/>
     <Info name="ROOT Release" value="6.22/08 [398856]"/>
     <Info name="Creator" value="root"/>
-    <Info name="Date" value="Tue Oct 26 18:50:13 2021"/>
+    <Info name="Date" value="Wed Oct 27 08:10:52 2021"/>
     <Info name="Host" value="Linux root-ubuntu-2004-2 5.4.0-33-generic #37-Ubuntu SMP Thu May 21 12:53:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux"/>
     <Info name="Dir" value="/work"/>
     <Info name="Training events" value="16986"/>
-    <Info name="TrainingTime" value="1.08911085e+00"/>
+    <Info name="TrainingTime" value="1.44008493e+00"/>
     <Info name="AnalysisType" value="Classification"/>
   </GeneralInfo>
   <Options>
